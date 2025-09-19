@@ -9,3 +9,6 @@ Click the 'Simulate Motion Detector' button underneath the bridge.
 - After motion has been detected, the warning light sequence begins, alerting drivers that the bridge is soon to lift
 
 - The bridge lifts after the warning sequence
+
+## Demonstration
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Suireyha/MQ-BridgeSim/blob/main/BRIDGE_LIFT.gif))
