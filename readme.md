@@ -11,4 +11,4 @@ Click the 'Simulate Motion Detector' button underneath the bridge.
 - The bridge lifts after the warning sequence
 
 ## Demonstration
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Suireyha/MQ-BridgeSim/blob/main/BRIDGE_LIFT.gif))
+![](https://github.com/Suireyha/MQ-BridgeSim/blob/main/BRIDGE_LIFT.gif)
